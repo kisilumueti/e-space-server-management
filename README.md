@@ -91,5 +91,5 @@ Includes your GitHub username and repository name, and gives you a neat way to r
 
 
    ```bash
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
+   git clone https://github.com/kisilumueti/e-space-server-management.git
+   cd e-space-server-management
